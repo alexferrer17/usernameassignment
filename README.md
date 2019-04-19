@@ -1,2 +1,2 @@
 # usernameassignment
-username repertory edited
+username repository edited
